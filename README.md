@@ -3,7 +3,7 @@
 ## 🚀 Demo
 
 ### Full Demo Video
-<video src="assets/demo.mp4" width="100%" controls="controls"></video>
+<video src="[assets/demo.mp4](https://github.com/gonthina-dinesh/Disease-prediction-using-artificial-intelligence/blob/main/assets/demo.mp4)" width="100%" controls="controls"></video>
 
 
 ## Overview

@@ -1,5 +1,11 @@
 # Health Prediction System
 
+## 🚀 Demo
+
+### Full Demo Video
+[Watch Demo](assets/demo.mp4)
+
+
 ## Overview
 The **Health Prediction System** is a web application that helps users assess their risk for various health conditions, including **heart disease, diabetes, and stroke (brain disease)**. Using **Machine Learning models**, the system takes user input, processes it, and provides a health risk assessment along with personalized recommendations.
 

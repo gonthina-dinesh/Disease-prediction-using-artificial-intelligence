@@ -3,7 +3,7 @@
 ## 🚀 Demo
 
 ### Full Demo Video
-[Watch Demo](assets/demo.mp4)
+<video src="assets/demo.mp4" width="100%" controls="controls"></video>
 
 
 ## Overview

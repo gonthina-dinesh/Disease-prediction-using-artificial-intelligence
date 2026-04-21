@@ -1,10 +1,5 @@
 # Health Prediction System
 
-## 🚀 Demo
-
-### Full Demo Video
-<video src="[assets/demo.mp4](https://github.com/gonthina-dinesh/Disease-prediction-using-artificial-intelligence/blob/main/assets/demo.mp4)" width="100%" controls="controls"></video>
-
 
 ## Overview
 The **Health Prediction System** is a web application that helps users assess their risk for various health conditions, including **heart disease, diabetes, and stroke (brain disease)**. Using **Machine Learning models**, the system takes user input, processes it, and provides a health risk assessment along with personalized recommendations.
